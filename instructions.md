@@ -1,6 +1,8 @@
 # Before using the program, please read it carefully
 
-<strong>First, download the Python AI libraries as below:</strong>
+First, download the files in the master branch of the repository.
+
+<strong>Next, download the Python AI libraries as below:</strong>
 <ol>
 <li>Download Anaconda: Begin by going to the <a href="https://www.anaconda.com/products/individual" target="_blank">Anaconda download page</a> to begin installing Anaconda corresponds to your computer operating system.</li>
 <li>Create an environment by using AI libraries: 
